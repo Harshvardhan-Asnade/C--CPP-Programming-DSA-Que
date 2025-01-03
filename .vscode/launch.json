@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HARSH/OneDrive/Desktop/C++Project and Que Programming/basic",
-      "program": "c:/Users/HARSH/OneDrive/Desktop/C++Project and Que Programming/basic/build/Debug/outDebug",
+      "cwd": "c:/Users/HARSH/OneDrive/Desktop/C++Project and Que Programming",
+      "program": "c:/Users/HARSH/OneDrive/Desktop/C++Project and Que Programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
