@@ -2,9 +2,12 @@
 using namespace std;
 int main()
 {
-    int a = 7, b = 3, pie = 3.14, rectangle, circle, square;
+    int a = 2, b = 3, pie = 3.14, rectangle, square;
     // area
     rectangle = a * b;
-    circle = pie * a * a;
+    float circle = pie * a * a;
     square = a * a;
+    cout <<"Area of square :" << square << "\n ";
+    cout<<"Area of rectangle :" << rectangle << "\n";
+    cout <<"Area of circle: " << circle;
 }
