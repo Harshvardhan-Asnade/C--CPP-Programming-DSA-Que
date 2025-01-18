@@ -9,7 +9,6 @@ int main()
     {
         cout << " The Number is Divisble by both 3 and 5";
     }
-
     else
     {
         cout << " The Number is Not Divisble by both 3 and 5";
