@@ -1,6 +1,6 @@
 # 💥 **C++ and DSA in C++** 🚀
 
-### A Project by **Harshvardhan Asnade**  
+###  by **Harshvardhan Asnade**  
 
 This **C++ project** aims to showcase core concepts and problem-solving techniques in C++. It provides hands-on experience with **Data Structures & Algorithms (DSA)** and **C++ programming**, making it perfect for learners eager to dive into coding and improve their skills.
 
