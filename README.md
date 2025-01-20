@@ -39,10 +39,6 @@ A quick overview of the repository layout:
 
 ├── README.md           # Project documentation  
 
- 
-
-```
-
 ---
 
 ## 🛠️ **Getting Started**
