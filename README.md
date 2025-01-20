@@ -1,4 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/7328ce0e-99c2-4115-b455-014625e13f20)  and DSA in C++🚀
+# ![image](https://github.com/user-attachments/assets/7328ce0e-99c2-4115-b455-014625e13f20)  C++ and DSA in C++🚀
 
 ### A Project by **Harshvardhan Asnade**  
 
