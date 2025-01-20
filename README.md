@@ -1,5 +1,4 @@
-# 💥![image](https://github.com/user-attachments/assets/abd3d60f-8862-453a-b9c8-907eb08a7390)
- and DSA in C++🚀
+# [image](https://github.com/user-attachments/assets/abd3d60f-8862-453a-b9c8-907eb08a7390) and DSA in C++🚀
 ### A Project by **Harshvardhan Asnade**  
 
 This **C++ project** covers core concepts and problem-solving techniques, ideal for learning and contributing to an expanding codebase.
