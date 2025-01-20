@@ -75,6 +75,4 @@ To contribute, fork the repository, make changes, and submit a pull request!
 - 💌 **Email**: [harshasnade24@gmail.com](mailto:harshasnade24@gmail.com)  
 - 💼 **LinkedIn**: [Harshvardhan Asnade](https://www.linkedin.com/in/harshvardhan-asnade-225000344/)
 
----
-
-Now the image stays included! Let me know if you'd like to add or tweak anything further.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
