@@ -38,7 +38,7 @@ A quick overview of the repository layout:
 ├── dsa/                # Data structures and algorithms implementations  
 
 ├── README.md           # Project documentation  
-
+---
 ---
 
 ## 🛠️ **Getting Started**
