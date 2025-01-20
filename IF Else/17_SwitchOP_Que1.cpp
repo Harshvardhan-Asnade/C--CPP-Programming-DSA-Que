@@ -44,6 +44,6 @@ int main()
         cout << "December";
         break;
     default:
-        cout << "invaild no";
+        cout << "invaild months";
     }
 }
