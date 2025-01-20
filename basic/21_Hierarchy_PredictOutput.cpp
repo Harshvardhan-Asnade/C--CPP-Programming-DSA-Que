@@ -6,7 +6,7 @@ int main()
     float a, b;
     k = i / j * j; // 2/3 * 3 = 0*3=0
     l = j / i * i;  // 3/2 * 2 = 1*2=2
-    a = i / j * j;  // 2/3 * 3 = 0*3=0
+    a = i / j * j;   
     b = j / i * i;  
     cout << k << " " << a << " " << b;
 }
