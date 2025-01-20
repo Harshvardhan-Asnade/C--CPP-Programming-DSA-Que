@@ -1,7 +1,3 @@
-Here’s a modern, polished version of your README, styled for a professional GitHub repository:  
-
----
-
 # 🌟 C++ Project by Harshvardhan Asnade  
 
 A **C++ project** that demonstrates core programming concepts and provides solutions to practical problems. Perfect for learning, inspiration, or contributing to an evolving codebase!  
