@@ -20,15 +20,19 @@ This **C++ project** is designed to showcase core concepts and problem-solving t
 
 ---
 
-## 📂 **Project Structure**
+## 📂 **File Structure**
 
 A quick overview of the repository layout:
 
 ```
-├── examples/      # Example implementations of key concepts  
-├── dsa/           # Data structures and algorithms implementations  
-├── README.md      # Project documentation  
-└── LICENSE        # License information  
+├── if_else/        # Implementations of if-else and basic control structures  
+├── loops/          # Loops and related concepts  
+├── pattern_painting/ # Pattern printing examples  
+├── functions/      # Examples of functions and function usage  
+├── arrays/         # Array manipulation and related concepts  
+├── dsa/            # Data structures and algorithms implementations  
+├── README.md       # Project documentation  
+└── LICENSE         # License information  
 ```
 
 ---
@@ -73,5 +77,4 @@ To contribute, fork the repository, make changes, and submit a pull request!
 - 🌐 **Portfolio**: [harshvardhan-asnade.github.io/MainResume-WebsiteV2](https://harshvardhan-asnade.github.io/MainResume-WebsiteV2/)  
 - 💌 **Email**: [harshasnade24@gmail.com](mailto:harshasnade24@gmail.com)  
 - 💼 **LinkedIn**: [Harshvardhan Asnade](https://www.linkedin.com/in/harshvardhan-asnade-225000344/)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
