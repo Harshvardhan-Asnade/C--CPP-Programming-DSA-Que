@@ -25,14 +25,22 @@ This **C++ project** is designed to showcase core concepts and problem-solving t
 A quick overview of the repository layout:
 
 ```
-├── if_else/        # Implementations of if-else and basic control structures  
-├── loops/          # Loops and related concepts  
-├── pattern_painting/ # Pattern printing examples  
-├── functions/      # Examples of functions and function usage  
-├── arrays/         # Array manipulation and related concepts  
-├── dsa/            # Data structures and algorithms implementations  
-├── README.md       # Project documentation  
-└── LICENSE         # License information  
+├── basics/          
+│   ├── if_else/        # Implementations of if-else and basic control structures  
+│   └── loops/          # Loops and related concepts  
+
+├── functions/          # Examples of functions and function usage  
+
+├── arrays/             # Array manipulation and related concepts  
+
+├── pattern_painting/   # Pattern printing examples  
+
+├── dsa/                # Data structures and algorithms implementations  
+
+├── README.md           # Project documentation  
+
+ 
+
 ```
 
 ---
