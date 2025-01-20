@@ -1,9 +1,13 @@
-Here’s the revised version of your GitHub README with the image included:
+Got it! Here’s how you can structure the README with the image on the left and the text on the right:
 
 ---
 
-# ![image](https://github.com/user-attachments/assets/7328ce0e-99c2-4115-b455-014625e13f20)  
-# C++ and DSA in C++ 🚀
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/7328ce0e-99c2-4115-b455-014625e13f20" alt="image" width="200" />
+</div>
+<div align="right">
+  # C++ and DSA in C++ 🚀
+</div>
 
 ### A Project by **Harshvardhan Asnade**  
 
@@ -81,4 +85,4 @@ To contribute, fork the repository, make changes, and submit a pull request!
 
 ---
 
-Now the image stays included! Let me know if you'd like to add or tweak anything further.
+This layout should display the image on the left side, with the text aligned to the right. Let me know if this works for you or if you'd like any further adjustments!
