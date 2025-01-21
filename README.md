@@ -82,5 +82,4 @@ To contribute, fork the repository, make your changes, and submit a pull request
 - 🌐 **Portfolio**: [harshvardhan-asnade.github.io/MainResume-WebsiteV2](https://harshvardhan-asnade.github.io/MainResume-WebsiteV2/)  
 - 💌 **Email**: [harshasnade24@gmail.com](mailto:harshasnade24@gmail.com)  
 - 💼 **LinkedIn**: [Harshvardhan Asnade](https://www.linkedin.com/in/harshvardhan-asnade-225000344/)
-
----
+ 
