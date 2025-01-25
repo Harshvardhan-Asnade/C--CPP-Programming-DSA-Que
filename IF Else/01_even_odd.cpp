@@ -17,7 +17,7 @@ int main()
     // else
     // {
     //     cout << "Number is Odd ";
-    // }
+    //  } 
 
     return 0;
 }
