@@ -9,5 +9,8 @@ int main(){
     for(int i=0;i<n;i++){
         CurrSum = CurrSum+arr[i];
         MAXSUM=max(CurrSum,MAXSUM);
+        if(CurrSum<0){
+            CurrSum=0;
+        }
     } cout<<MAXSUM;
 }
